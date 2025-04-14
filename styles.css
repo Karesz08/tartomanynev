@@ -45,4 +45,10 @@ p.kepfelirat {
 
 p {
   text-align: justify;
+  text-indent: 1em;
+}
+.imagetitle{
+  text-align: initial;
+  text-align: center;
+  line-height: 130%;
 }
