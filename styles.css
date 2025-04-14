@@ -41,14 +41,11 @@ h1, h2 {
 p.kepfelirat {
   font-size: 1.1em;
   margin: 0px;
+  font-style: italic;
+  text-align: center;
+  line-height: 140%;
 }
 
-p {
-  text-align: justify;
-  text-indent: 1em;
-}
-.imagetitle{
-  text-align: initial;
-  text-align: center;
-  line-height: 130%;
+.kiemelt{
+  font-weight: bold;
 }
